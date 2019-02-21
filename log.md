@@ -22,9 +22,17 @@
 
 **Today's Progress**: Uploaded two java programs which were written by me as a practise of java basics.
 
-**Thoughts:** Implemented basic programs to find the prime number, to print details about puppy
+**Thoughts:** Implemented basic programs to find the prime number and to print details about puppy.
 
 **Link to work:** [Program_Link_Prime](https://github.com/vaish30/Learning-Java/blob/master/Prime.java)
                   [Program_Link_PuppyDetails](https://github.com/vaish30/Learning-Java/blob/master/Puppy.java)
                   
 
+### Day 4: Febuary 21,2019 
+
+**Today's Progress**: Uploaded two java programs as part of Java Learning Path.
+
+**Thoughts:** Implemented basic programs to Remove Duplicates from the String and to print details about Employee.
+
+**Link to work:** [Program_Link_RemoveDuplicates](https://github.com/vaish30/Learning-Java/blob/master/RemoveDuplicates.java)
+                  [Program_Link_EmployeeDetails](https://github.com/vaish30/Learning-Java/blob/master/Employee.java)
