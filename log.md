@@ -36,3 +36,14 @@
 
 **Link to work:** [Program_Link_RemoveDuplicates](https://github.com/vaish30/Learning-Java/blob/master/RemoveDuplicates.java)
                   [Program_Link_EmployeeDetails](https://github.com/vaish30/Learning-Java/blob/master/Employee.java)
+                  
+                  
+### Day 5: Febuary 26,2019 
+
+**Today's Progress**: Uploaded two java programs as part of Java Learning Path.
+
+**Thoughts:** Implemented basic programs to Swap integers with and without using temporary variables.
+
+**Link to work:** [Program_Link_WithoutUsing](https://github.com/vaish30/Learning-Java/blob/master/NewSwap.java)
+                  [Program_Link_UsingTemp](https://github.com/vaish30/Learning-Java/blob/master/Swap.java)
+
